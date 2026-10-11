@@ -1,3 +1,17 @@
+## 📊 Dashboard Screenshots
+
+### Dashboard 1: Executive Overview
+![Dashboard 1 - Executive Overview](Dashboard%20Screenshots/Dashboard%201%20(Executive%20Overview).png)
+
+### Dashboard 2: Customer Behaviour Analysis
+![Dashboard 2 - Behaviour Analysis](Dashboard%20Screenshots/Dashboard%202%20(Behaviour%20Analysis).png)
+
+### Dashboard 3: Advanced Churn Insights
+![Dashboard 3 - Advanced Churn Insight](Dashboard%20Screenshots/Dashboard%203%20(Advanced%20Churn%20Insight).png)
+
+### Dashboard 4: Retention Strategy & Revenue Protection
+![Dashboard 4 - Retention and Revenue](Dashboard%20Screenshots/Dashboard%204%20(Retention%20%26%20Revenue).png)
+
 # Telecommunications ChurnQuest – Customer Churn Analysis Using Excel
 
 ## Project Overview
